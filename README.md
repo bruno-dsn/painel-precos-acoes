@@ -4,14 +4,9 @@ Aplicação web feita em **Python + Streamlit** para acompanhar a evolução do
 preço de ações da B3, com gráfico comparativo, métricas rápidas e exportação
 dos dados em CSV.
 
-Projeto de estudo, feito por **Bruno Nunes**, durante minha transição de
-carreira para Dados / IA.
-
-🔗 **App publicado:** _cole aqui o link depois do deploy, ex: `https://painel-precos-acoes.streamlit.app`_
+🔗 **App publicado:** [painel-precos-acoes.streamlit.app](https://painel-precos-acoes.streamlit.app/)
 
 ![Preview do app](assets/preview.png)
-> Dica: depois de rodar o app localmente, tire um print da tela e salve como
-> `assets/preview.png` para essa imagem aparecer aqui.
 
 ---
 
@@ -54,6 +49,11 @@ projeto:
 - **Pode haver bloqueio temporário por excesso de requisições** (erro comum
   do tipo "rate limit"). O app já usa cache de 1 hora para reduzir isso, mas
   se acontecer, basta esperar alguns minutos e recarregar a página.
+
+**Como validar os dados:** basta comparar o preço de fechamento de uma ação
+exibido no painel com o mesmo dia no site oficial do Yahoo Finance ou do
+Google Finance. Os valores devem ser idênticos (ou ter diferença mínima por
+ajustes de proventos).
 
 Para um projeto de portfólio e estudo, é exatamente o uso para o qual a
 biblioteca foi feita.
@@ -135,7 +135,7 @@ painel-precos-acoes/
 ├── .streamlit/
 │   └── config.toml          # tema visual do app
 ├── assets/
-│   └── preview.png          # print do app (adicionar depois de rodar)
+│   └── preview.png          # print do app
 ├── .gitignore
 ├── LICENSE
 └── README.md
@@ -156,8 +156,8 @@ painel-precos-acoes/
 ## 👤 Autor
 
 **Bruno Nunes**
-Profissional de TI em transição de carreira para Dados e IA, atualmente no
-programa Pós-Tech AI Scientist (FIAP + Alura).
+Cientista de dados, cursando a Pós-Tech em Ciência de Dados e Inteligência
+Artificial (AI Scientist) pela FIAP.
 
 - GitHub: [github.com/bruno-dsn](https://github.com/bruno-dsn)
 - LinkedIn: [linkedin.com/in/bruno-dsnunes](https://www.linkedin.com/in/bruno-dsnunes/)
