@@ -50,6 +50,11 @@ projeto:
   do tipo "rate limit"). O app já usa cache de 1 hora para reduzir isso, mas
   se acontecer, basta esperar alguns minutos e recarregar a página.
 
+**Como validar os dados:** basta comparar o preço de fechamento de uma ação
+exibido no painel com o mesmo dia no site oficial do Yahoo Finance ou do
+Google Finance. Os valores devem ser idênticos (ou ter diferença mínima por
+ajustes de proventos).
+
 Para um projeto de portfólio e estudo, é exatamente o uso para o qual a
 biblioteca foi feita.
 
