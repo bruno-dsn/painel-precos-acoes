@@ -4,17 +4,9 @@ Aplicação web feita em **Python + Streamlit** para acompanhar a evolução do
 preço de ações da B3, com gráfico comparativo, métricas rápidas e exportação
 dos dados em CSV.
 
-Projeto de estudo, feito por **Bruno Nunes**, cientista de dados cursando a
-Pós-Tech em Ciência de Dados e Inteligência Artificial pela FIAP.
-
-- GitHub: [github.com/bruno-dsn](https://github.com/bruno-dsn)
-- LinkedIn: [linkedin.com/in/bruno-dsnunes](https://www.linkedin.com/in/bruno-dsnunes/)
-
-
-🔗 **App publicado:** _cole aqui o link depois do deploy, ex: `https://painel-precos-acoes.streamlit.app`_
+🔗 **App publicado:** [painel-precos-acoes.streamlit.app](https://painel-precos-acoes.streamlit.app/)
 
 ![Preview do app](assets/preview.png)
-
 
 ---
 
@@ -138,7 +130,7 @@ painel-precos-acoes/
 ├── .streamlit/
 │   └── config.toml          # tema visual do app
 ├── assets/
-│   └── preview.png          # print do app (adicionar depois de rodar)
+│   └── preview.png          # print do app
 ├── .gitignore
 ├── LICENSE
 └── README.md
@@ -155,6 +147,18 @@ painel-precos-acoes/
 - Guardar histórico de ações mais consultadas
 
 ---
+
+## 👤 Autor
+
+**Bruno Nunes**
+Cientista de dados, cursando a Pós-Tech em Ciência de Dados e Inteligência
+Artificial (AI Scientist) pela FIAP.
+
+- GitHub: [github.com/bruno-dsn](https://github.com/bruno-dsn)
+- LinkedIn: [linkedin.com/in/bruno-dsnunes](https://www.linkedin.com/in/bruno-dsnunes/)
+
+---
+
 ## 📄 Licença
 
 Este projeto está sob a licença MIT — veja o arquivo [LICENSE](LICENSE) para
