@@ -4,14 +4,17 @@ Aplicação web feita em **Python + Streamlit** para acompanhar a evolução do
 preço de ações da B3, com gráfico comparativo, métricas rápidas e exportação
 dos dados em CSV.
 
-Projeto de estudo, feito por **Bruno Nunes**, durante minha transição de
-carreira para Dados / IA.
+Projeto de estudo, feito por **Bruno Nunes**, cientista de dados cursando a
+Pós-Tech em Ciência de Dados e Inteligência Artificial pela FIAP.
+
+- GitHub: [github.com/bruno-dsn](https://github.com/bruno-dsn)
+- LinkedIn: [linkedin.com/in/bruno-dsnunes](https://www.linkedin.com/in/bruno-dsnunes/)
+
 
 🔗 **App publicado:** _cole aqui o link depois do deploy, ex: `https://painel-precos-acoes.streamlit.app`_
 
 ![Preview do app](assets/preview.png)
-> Dica: depois de rodar o app localmente, tire um print da tela e salve como
-> `assets/preview.png` para essa imagem aparecer aqui.
+
 
 ---
 
@@ -152,18 +155,6 @@ painel-precos-acoes/
 - Guardar histórico de ações mais consultadas
 
 ---
-
-## 👤 Autor
-
-**Bruno Nunes**
-Profissional de TI em transição de carreira para Dados e IA, atualmente no
-programa Pós-Tech AI Scientist (FIAP + Alura).
-
-- GitHub: [github.com/bruno-dsn](https://github.com/bruno-dsn)
-- LinkedIn: [linkedin.com/in/bruno-dsnunes](https://www.linkedin.com/in/bruno-dsnunes/)
-
----
-
 ## 📄 Licença
 
 Este projeto está sob a licença MIT — veja o arquivo [LICENSE](LICENSE) para
